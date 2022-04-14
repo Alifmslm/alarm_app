@@ -15,4 +15,6 @@
     <string name="txt_add_set_alarm">Add Set Alarm</string>
     <string name="txt_cancel_set_alarm">Cancel Set Alarm</string>
     <string name="txt_input_note">Input Your Note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
